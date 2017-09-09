@@ -1,3 +1,4 @@
+#https://elixirschool.com/en/lessons/advanced/concurrency/#process-linking
 defmodule ProcessLinking do
   def explode, do: exit(:kaboom)
   def run do
